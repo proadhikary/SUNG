@@ -12,120 +12,120 @@ new Vue({
         {
           name: "Amar Hath Bandhibi",
           artist: "Sahana Bajpaie",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/sahana.jpeg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/1.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/sahana.jpeg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/1.mp3",
           url: "https://youtu.be/PA7DKlXCYdU",
           favorited: false
         },
         {
           name: "Amar Pran Dhoriya Maro Tan",
           artist: "Emon Chowdhory",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/amar.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/2.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/amar.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/2.mp3",
           url: "https://youtu.be/t1dVen8SQSY",
           favorited: true
         },
         {
           name: "Baje Shobhab",
           artist: "Prithwi Raj",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/baje.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/3.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/baje.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/3.mp3",
           url: "https://youtu.be/o61DHzy-5Js",
           favorited: false
         },
         {
           name: "Dekhecho ki Take",
           artist: "Subhomita Banerjee",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/dekhecho.jpeg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/4.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/dekhecho.jpeg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/4.mp3",
           url: "https://youtu.be/YqUl8Z0Kj1s",
           favorited: false
         },
         {
           name: "Jao Pakhi Bolo",
           artist: "Shreya Ghoshal",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/jao.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/5.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/jao.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/5.mp3",
           url: "https://youtu.be/b09HPjMsFT8",
           favorited: true
         },
         {
           name: "Konna Re",
           artist: "Shan Shaik",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/koinna.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/6.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/koinna.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/6.mp3",
           url: "https://youtu.be/5f47oSORx8Q",
           favorited: false
         },
         {
           name: "Kotobaro Bhebechinu",
           artist: "Rezwana Choudhury",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/koto.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/7.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/koto.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/7.mp3",
           url: "https://youtu.be/0EF6gwixrSg",
           favorited: true
         },
         {
           name: "Mayabono Biharini",
           artist: "Somlata",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/maya.png",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/8.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/maya.png",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/8.mp3",
           url: "https://youtu.be/mbpi6o4cktk",
           favorited: false
         },
         {
           name: "Moloyo Batashe",
           artist: "Sahana Bajpaie",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/moloyo.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/9.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/moloyo.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/9.mp3",
           url: "https://youtu.be/1sl7LuZokxU",
           favorited: false
         },
         {
           name: "O Je Mane Na Mana",
           artist: "Sunidhi Nayak",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/oje.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/10.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/oje.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/10.mp3",
           url: "https://youtu.be/TpLOTXd7djw",
           favorited: false
         },
         {
           name: "Preme Pora Baron",
           artist: "Lagnajita",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/preme.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/11.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/preme.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/11.mp3",
           url: "https://youtu.be/1DAgBjXj96k",
           favorited: false
         },
         {
           name: "Shunya Khatar Gaan",
           artist: "Sahana Bajpaie",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/shunno.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/12.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/shunno.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/12.mp3",
           url: "https://youtu.be/Ttbnd_4Uc8o",
           favorited: false
         },
         {
           name: "Tomake Bujhina Priyo",
           artist: "Chandrani Banerjee",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/bujhina.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/13.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/bujhina.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/13.mp3",
           url: "https://youtu.be/Idwjj2p6LMc",
           favorited: false
         },
         {
           name: "Ami Shunechi Sedin",
           artist: "Moushumi Bhoumik",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/sunechi.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/14.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/sunechi.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/14.mp3",
           url: "https://youtu.be/aiMtb5g6970",
           favorited: false
         },
        {
           name: "Chal Rastay Saaji Tram Line",
           artist: "Shreya Ghoshal",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/master/img/chal.jpg",
-          source: "https://raw.githubusercontent.com/human71/SUNG/master/mp3/15.mp3",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/chal.jpg",
+          source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/15.mp3",
           url: "https://youtu.be/X-flIvUqKrg",
           favorited: false
         }
