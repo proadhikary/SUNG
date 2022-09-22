@@ -116,7 +116,7 @@ new Vue({
         {
           name: "Ami Shunechi Sedin",
           artist: "Moushumi Bhoumik",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/sunechi.jpg",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/shunechi.jpg",
           source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/14.mp3",
           url: "https://youtu.be/aiMtb5g6970",
           favorited: false
