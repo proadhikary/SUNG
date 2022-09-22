@@ -124,7 +124,7 @@ new Vue({
        {
           name: "Chal Rastay Saaji Tram Line",
           artist: "Shreya Ghoshal",
-          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/chal.jpg",
+          cover: "https://raw.githubusercontent.com/human71/SUNG/main/img/chalo.jpg",
           source: "https://raw.githubusercontent.com/human71/SUNG/main/mp3/15.mp3",
           url: "https://youtu.be/X-flIvUqKrg",
           favorited: false
